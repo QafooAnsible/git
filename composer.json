@@ -1,7 +1,7 @@
 {
-    "name": "qafooansible/git",
+    "name": "qafoogalaxy/git",
     "type": "ansible-role",
     "require": {
-        "qafooansible/installer": "dev-master"
+        "qafoogalaxy/installer": "dev-master"
     }
 }
